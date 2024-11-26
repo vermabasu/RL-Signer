@@ -48,7 +48,7 @@ python inference.py
 
 ### RESULT:
 
-<img src="./images/sign_result.png" width="900" height="300">
+<img src="./images/Sign_result.png" width="900" height="300">
 
 Fig 2: Result representation of actual and generated 2D Signature through RL-Signer after training for different Episodes.
 
